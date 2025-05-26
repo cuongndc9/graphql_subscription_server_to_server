@@ -5,6 +5,6 @@ Implement SubscriptionClient for server aka client.
 ## ⚠️⚠️⚠️ use for demo only, not production.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+Be a lifelong learner, not a know-it-all.
 🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
