@@ -5,5 +5,5 @@ Implement SubscriptionClient for server aka client.
 ## ⚠️⚠️⚠️ use for demo only, not production.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 <!-- INSPIRATIONAL_QUOTE_END -->
