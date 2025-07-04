@@ -5,5 +5,5 @@ Implement SubscriptionClient for server aka client.
 ## ⚠️⚠️⚠️ use for demo only, not production.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
