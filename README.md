@@ -5,5 +5,5 @@ Implement SubscriptionClient for server aka client.
 ## ⚠️⚠️⚠️ use for demo only, not production.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->
